@@ -85,6 +85,16 @@
             "tipusIva": 21,
             "tipus": "ingres",
             "abonada": false
+        },
+         {
+            "codi": 9,
+            "numero": "1023",
+            "data": "1546459539382",
+            "concepte": "Revisió total",
+            "base": 320,
+            "tipusIva": 21,
+            "tipus": "ingres",
+            "abonada": true
         }
  
     ]
